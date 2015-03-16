@@ -1,11 +1,32 @@
-{
-  "Eastway": {
+[
+  {
+  	"Name": "Eastway Center",
     "Monday": 1234,
     "Tuesday": 345,
     "Wednesday": 223,
     "Thursday": 332,
     "Friday": 443,
     "Lat": 41.146843,
-    "Long": -81.337385,
+    "Long": -81.337385
   },
-}
+  {
+  	"Name": "Rosie's Diner",
+  	"Monday": 1234,
+    "Tuesday": 345,
+    "Wednesday": 223,
+    "Thursday": 332,
+    "Friday": 443,
+    "Lat": 41.149452,
+    "Long": -81.337924
+  }, 
+  {
+  	"Name": "Student Center Hub",
+  	"Monday": 1234,
+    "Tuesday": 345,
+    "Wednesday": 223,
+    "Thursday": 332,
+    "Friday": 443,
+    "Lat": 41.147686,
+    "Long": -81.342988
+  }
+]
